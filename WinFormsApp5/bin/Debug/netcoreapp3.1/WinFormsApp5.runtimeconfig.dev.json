@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\VitSpec\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\VitSpec\\.nuget\\packages"
+    ]
+  }
+}
